@@ -13,3 +13,4 @@
 
 ### 用いた技術
 1. Android IDE (Eclipse)
+2. Android Bluetooth API
